@@ -1,3 +1,5 @@
+
+
 ## Zee5 Downloader
 If you find any bugs, report at @TroJanzSupport
 
@@ -12,7 +14,7 @@ If you find any bugs, report at @TroJanzSupport
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/TroJanzHEX/Zee5-Downloader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/tecnokhiladi/Zee5-Downloader)
 
 #### Run in your VPS
 
